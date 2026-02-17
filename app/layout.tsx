@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Rayvano Putra | Portofolio",
-  description: "Portofolio Rayvano Putra Pratama - IoT & Web Developer",
+  title: "Rayvano Putra | Portofolio", // Ubah ini
+  description: "Portofolio Rayvano Putra Pratama",
 };
 
 export default function RootLayout({
